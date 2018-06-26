@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.ycg.rdc</groupId>
+    <artifactId>framework-support-id-parent</artifactId>
+    <version>1.2.1</version>
+  </parent>
+  <artifactId>framework-support-id-common</artifactId>
+  <name>framework-support-id-common</name>
+  <description>集团信息部研发中心基础支撑系统全局ID服务通用包</description>
+  <build/>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
+    </properties>
+</project>
